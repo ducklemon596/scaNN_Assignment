@@ -37,4 +37,5 @@ Mục tiêu: đo hiệu năng (thời gian) khi làm việc với dataset lớn 
 ## Tài liệu tham khảo & Credits
 
 * ScaNN: [https://github.com/google-research/google-research/tree/master/scann](https://github.com/google-research/google-research/tree/master/scann)
+* ScaNN for Alloy DB: [https://services.google.com/fh/files/misc/scann_for_alloydb_whitepaper.pdf](https://services.google.com/fh/files/misc/scann_for_alloydb_whitepaper.pdf)
 * Colab và tài liệu các thư viện tương ứng.
